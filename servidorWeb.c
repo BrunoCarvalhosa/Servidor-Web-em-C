@@ -12,9 +12,9 @@
 #define MAXSOCKETS 10
 #define TAMANHOARQUIVO 255
 #define TAMANHOCAMINHO 1024
-//  mudar o caminho (pasta onde os arquivos estão)
 #define TAMANHOCAMINHOLOCAL 1024
-#define DIRETORIORAIZ "D:\\www\\"
+//  mudar o caminho (pasta onde os arquivos estão) - usar "\\"
+#define DIRETORIORAIZ "C:\\Users\\bruni\\Documents\\BACKUP\\6 SEMESTRE\\Servidor Web\\www\\"
 #define ARQUIVOPADRAO "index.html"
 
 const char *tiposmime[] =

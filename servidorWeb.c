@@ -12,6 +12,7 @@
 #define MAXSOCKETS 10
 #define TAMANHOARQUIVO 255
 #define TAMANHOCAMINHO 1024
+//  mudar o caminho (pasta onde os arquivos estão)
 #define TAMANHOCAMINHOLOCAL 1024
 #define DIRETORIORAIZ "D:\\www\\"
 #define ARQUIVOPADRAO "index.html"
